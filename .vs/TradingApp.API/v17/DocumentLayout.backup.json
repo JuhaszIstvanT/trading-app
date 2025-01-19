@@ -1,0 +1,857 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\final\\backend\\TradingApp.API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F334C2C1-2854-48DE-AF8F-3ED2F36C81AB}|TradingApp.API\\TradingApp.API.csproj|d:\\final\\backend\\tradingapp.api\\tradingapp.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F334C2C1-2854-48DE-AF8F-3ED2F36C81AB}|TradingApp.API\\TradingApp.API.csproj|solutionrelative:tradingapp.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F334C2C1-2854-48DE-AF8F-3ED2F36C81AB}|TradingApp.API\\TradingApp.API.csproj|d:\\final\\backend\\tradingapp.api\\tradingapp.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F334C2C1-2854-48DE-AF8F-3ED2F36C81AB}|TradingApp.API\\TradingApp.API.csproj|solutionrelative:tradingapp.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03C1A6D2-FC98-40F3-9E27-EF5BAEDD20A5}|TradingAppTest\\TradingAppTest.csproj|d:\\final\\backend\\tradingapp.api\\tradingapptest\\blockchainservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03C1A6D2-FC98-40F3-9E27-EF5BAEDD20A5}|TradingAppTest\\TradingAppTest.csproj|solutionrelative:tradingapptest\\blockchainservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03C1A6D2-FC98-40F3-9E27-EF5BAEDD20A5}|TradingAppTest\\TradingAppTest.csproj|d:\\final\\backend\\tradingapp.api\\tradingapptest\\tradingapptest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{03C1A6D2-FC98-40F3-9E27-EF5BAEDD20A5}|TradingAppTest\\TradingAppTest.csproj|solutionrelative:tradingapptest\\tradingapptest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F334C2C1-2854-48DE-AF8F-3ED2F36C81AB}|TradingApp.API\\TradingApp.API.csproj|d:\\final\\backend\\tradingapp.api\\tradingapp.api\\tradingapp.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{F334C2C1-2854-48DE-AF8F-3ED2F36C81AB}|TradingApp.API\\TradingApp.API.csproj|solutionrelative:tradingapp.api\\tradingapp.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F334C2C1-2854-48DE-AF8F-3ED2F36C81AB}|TradingApp.API\\TradingApp.API.csproj|d:\\final\\backend\\tradingapp.api\\tradingapp.api\\services\\walletservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F334C2C1-2854-48DE-AF8F-3ED2F36C81AB}|TradingApp.API\\TradingApp.API.csproj|solutionrelative:tradingapp.api\\services\\walletservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F334C2C1-2854-48DE-AF8F-3ED2F36C81AB}|TradingApp.API\\TradingApp.API.csproj|d:\\final\\backend\\tradingapp.api\\tradingapp.api\\services\\tradeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F334C2C1-2854-48DE-AF8F-3ED2F36C81AB}|TradingApp.API\\TradingApp.API.csproj|solutionrelative:tradingapp.api\\services\\tradeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F334C2C1-2854-48DE-AF8F-3ED2F36C81AB}|TradingApp.API\\TradingApp.API.csproj|d:\\final\\backend\\tradingapp.api\\tradingapp.api\\services\\marketservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F334C2C1-2854-48DE-AF8F-3ED2F36C81AB}|TradingApp.API\\TradingApp.API.csproj|solutionrelative:tradingapp.api\\services\\marketservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F334C2C1-2854-48DE-AF8F-3ED2F36C81AB}|TradingApp.API\\TradingApp.API.csproj|d:\\final\\backend\\tradingapp.api\\tradingapp.api\\services\\followservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F334C2C1-2854-48DE-AF8F-3ED2F36C81AB}|TradingApp.API\\TradingApp.API.csproj|solutionrelative:tradingapp.api\\services\\followservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F334C2C1-2854-48DE-AF8F-3ED2F36C81AB}|TradingApp.API\\TradingApp.API.csproj|d:\\final\\backend\\tradingapp.api\\tradingapp.api\\services\\blockchainservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F334C2C1-2854-48DE-AF8F-3ED2F36C81AB}|TradingApp.API\\TradingApp.API.csproj|solutionrelative:tradingapp.api\\services\\blockchainservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F334C2C1-2854-48DE-AF8F-3ED2F36C81AB}|TradingApp.API\\TradingApp.API.csproj|d:\\final\\backend\\tradingapp.api\\tradingapp.api\\models\\wallet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F334C2C1-2854-48DE-AF8F-3ED2F36C81AB}|TradingApp.API\\TradingApp.API.csproj|solutionrelative:tradingapp.api\\models\\wallet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F334C2C1-2854-48DE-AF8F-3ED2F36C81AB}|TradingApp.API\\TradingApp.API.csproj|d:\\final\\backend\\tradingapp.api\\tradingapp.api\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F334C2C1-2854-48DE-AF8F-3ED2F36C81AB}|TradingApp.API\\TradingApp.API.csproj|solutionrelative:tradingapp.api\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F334C2C1-2854-48DE-AF8F-3ED2F36C81AB}|TradingApp.API\\TradingApp.API.csproj|d:\\final\\backend\\tradingapp.api\\tradingapp.api\\models\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F334C2C1-2854-48DE-AF8F-3ED2F36C81AB}|TradingApp.API\\TradingApp.API.csproj|solutionrelative:tradingapp.api\\models\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F334C2C1-2854-48DE-AF8F-3ED2F36C81AB}|TradingApp.API\\TradingApp.API.csproj|d:\\final\\backend\\tradingapp.api\\tradingapp.api\\models\\trade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F334C2C1-2854-48DE-AF8F-3ED2F36C81AB}|TradingApp.API\\TradingApp.API.csproj|solutionrelative:tradingapp.api\\models\\trade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F334C2C1-2854-48DE-AF8F-3ED2F36C81AB}|TradingApp.API\\TradingApp.API.csproj|d:\\final\\backend\\tradingapp.api\\tradingapp.api\\models\\miner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F334C2C1-2854-48DE-AF8F-3ED2F36C81AB}|TradingApp.API\\TradingApp.API.csproj|solutionrelative:tradingapp.api\\models\\miner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F334C2C1-2854-48DE-AF8F-3ED2F36C81AB}|TradingApp.API\\TradingApp.API.csproj|d:\\final\\backend\\tradingapp.api\\tradingapp.api\\models\\follow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F334C2C1-2854-48DE-AF8F-3ED2F36C81AB}|TradingApp.API\\TradingApp.API.csproj|solutionrelative:tradingapp.api\\models\\follow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F334C2C1-2854-48DE-AF8F-3ED2F36C81AB}|TradingApp.API\\TradingApp.API.csproj|d:\\final\\backend\\tradingapp.api\\tradingapp.api\\models\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F334C2C1-2854-48DE-AF8F-3ED2F36C81AB}|TradingApp.API\\TradingApp.API.csproj|solutionrelative:tradingapp.api\\models\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F334C2C1-2854-48DE-AF8F-3ED2F36C81AB}|TradingApp.API\\TradingApp.API.csproj|d:\\final\\backend\\tradingapp.api\\tradingapp.api\\models\\block.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F334C2C1-2854-48DE-AF8F-3ED2F36C81AB}|TradingApp.API\\TradingApp.API.csproj|solutionrelative:tradingapp.api\\models\\block.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F334C2C1-2854-48DE-AF8F-3ED2F36C81AB}|TradingApp.API\\TradingApp.API.csproj|d:\\final\\backend\\tradingapp.api\\tradingapp.api\\models\\balance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F334C2C1-2854-48DE-AF8F-3ED2F36C81AB}|TradingApp.API\\TradingApp.API.csproj|solutionrelative:tradingapp.api\\models\\balance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F334C2C1-2854-48DE-AF8F-3ED2F36C81AB}|TradingApp.API\\TradingApp.API.csproj|d:\\final\\backend\\tradingapp.api\\tradingapp.api\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F334C2C1-2854-48DE-AF8F-3ED2F36C81AB}|TradingApp.API\\TradingApp.API.csproj|solutionrelative:tradingapp.api\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F334C2C1-2854-48DE-AF8F-3ED2F36C81AB}|TradingApp.API\\TradingApp.API.csproj|d:\\final\\backend\\tradingapp.api\\tradingapp.api\\models\\dto\\watchlistdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F334C2C1-2854-48DE-AF8F-3ED2F36C81AB}|TradingApp.API\\TradingApp.API.csproj|solutionrelative:tradingapp.api\\models\\dto\\watchlistdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F334C2C1-2854-48DE-AF8F-3ED2F36C81AB}|TradingApp.API\\TradingApp.API.csproj|d:\\final\\backend\\tradingapp.api\\tradingapp.api\\models\\dto\\transferdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F334C2C1-2854-48DE-AF8F-3ED2F36C81AB}|TradingApp.API\\TradingApp.API.csproj|solutionrelative:tradingapp.api\\models\\dto\\transferdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F334C2C1-2854-48DE-AF8F-3ED2F36C81AB}|TradingApp.API\\TradingApp.API.csproj|d:\\final\\backend\\tradingapp.api\\tradingapp.api\\models\\dto\\traderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F334C2C1-2854-48DE-AF8F-3ED2F36C81AB}|TradingApp.API\\TradingApp.API.csproj|solutionrelative:tradingapp.api\\models\\dto\\traderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F334C2C1-2854-48DE-AF8F-3ED2F36C81AB}|TradingApp.API\\TradingApp.API.csproj|d:\\final\\backend\\tradingapp.api\\tradingapp.api\\models\\dto\\tradedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F334C2C1-2854-48DE-AF8F-3ED2F36C81AB}|TradingApp.API\\TradingApp.API.csproj|solutionrelative:tradingapp.api\\models\\dto\\tradedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F334C2C1-2854-48DE-AF8F-3ED2F36C81AB}|TradingApp.API\\TradingApp.API.csproj|d:\\final\\backend\\tradingapp.api\\tradingapp.api\\models\\dto\\resetpassworddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F334C2C1-2854-48DE-AF8F-3ED2F36C81AB}|TradingApp.API\\TradingApp.API.csproj|solutionrelative:tradingapp.api\\models\\dto\\resetpassworddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F334C2C1-2854-48DE-AF8F-3ED2F36C81AB}|TradingApp.API\\TradingApp.API.csproj|d:\\final\\backend\\tradingapp.api\\tradingapp.api\\models\\dto\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F334C2C1-2854-48DE-AF8F-3ED2F36C81AB}|TradingApp.API\\TradingApp.API.csproj|solutionrelative:tradingapp.api\\models\\dto\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F334C2C1-2854-48DE-AF8F-3ED2F36C81AB}|TradingApp.API\\TradingApp.API.csproj|d:\\final\\backend\\tradingapp.api\\tradingapp.api\\models\\dto\\profiledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F334C2C1-2854-48DE-AF8F-3ED2F36C81AB}|TradingApp.API\\TradingApp.API.csproj|solutionrelative:tradingapp.api\\models\\dto\\profiledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F334C2C1-2854-48DE-AF8F-3ED2F36C81AB}|TradingApp.API\\TradingApp.API.csproj|d:\\final\\backend\\tradingapp.api\\tradingapp.api\\models\\dto\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F334C2C1-2854-48DE-AF8F-3ED2F36C81AB}|TradingApp.API\\TradingApp.API.csproj|solutionrelative:tradingapp.api\\models\\dto\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F334C2C1-2854-48DE-AF8F-3ED2F36C81AB}|TradingApp.API\\TradingApp.API.csproj|d:\\final\\backend\\tradingapp.api\\tradingapp.api\\models\\dto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F334C2C1-2854-48DE-AF8F-3ED2F36C81AB}|TradingApp.API\\TradingApp.API.csproj|solutionrelative:tradingapp.api\\models\\dto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F334C2C1-2854-48DE-AF8F-3ED2F36C81AB}|TradingApp.API\\TradingApp.API.csproj|d:\\final\\backend\\tradingapp.api\\tradingapp.api\\models\\dto\\followrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F334C2C1-2854-48DE-AF8F-3ED2F36C81AB}|TradingApp.API\\TradingApp.API.csproj|solutionrelative:tradingapp.api\\models\\dto\\followrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F334C2C1-2854-48DE-AF8F-3ED2F36C81AB}|TradingApp.API\\TradingApp.API.csproj|d:\\final\\backend\\tradingapp.api\\tradingapp.api\\models\\dto\\depositdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F334C2C1-2854-48DE-AF8F-3ED2F36C81AB}|TradingApp.API\\TradingApp.API.csproj|solutionrelative:tradingapp.api\\models\\dto\\depositdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F334C2C1-2854-48DE-AF8F-3ED2F36C81AB}|TradingApp.API\\TradingApp.API.csproj|d:\\final\\backend\\tradingapp.api\\tradingapp.api\\models\\dto\\blockminerport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F334C2C1-2854-48DE-AF8F-3ED2F36C81AB}|TradingApp.API\\TradingApp.API.csproj|solutionrelative:tradingapp.api\\models\\dto\\blockminerport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F334C2C1-2854-48DE-AF8F-3ED2F36C81AB}|TradingApp.API\\TradingApp.API.csproj|d:\\final\\backend\\tradingapp.api\\tradingapp.api\\controllers\\watchlistcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F334C2C1-2854-48DE-AF8F-3ED2F36C81AB}|TradingApp.API\\TradingApp.API.csproj|solutionrelative:tradingapp.api\\controllers\\watchlistcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F334C2C1-2854-48DE-AF8F-3ED2F36C81AB}|TradingApp.API\\TradingApp.API.csproj|d:\\final\\backend\\tradingapp.api\\tradingapp.api\\controllers\\walletcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F334C2C1-2854-48DE-AF8F-3ED2F36C81AB}|TradingApp.API\\TradingApp.API.csproj|solutionrelative:tradingapp.api\\controllers\\walletcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F334C2C1-2854-48DE-AF8F-3ED2F36C81AB}|TradingApp.API\\TradingApp.API.csproj|d:\\final\\backend\\tradingapp.api\\tradingapp.api\\controllers\\tradecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F334C2C1-2854-48DE-AF8F-3ED2F36C81AB}|TradingApp.API\\TradingApp.API.csproj|solutionrelative:tradingapp.api\\controllers\\tradecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F334C2C1-2854-48DE-AF8F-3ED2F36C81AB}|TradingApp.API\\TradingApp.API.csproj|d:\\final\\backend\\tradingapp.api\\tradingapp.api\\controllers\\marketcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F334C2C1-2854-48DE-AF8F-3ED2F36C81AB}|TradingApp.API\\TradingApp.API.csproj|solutionrelative:tradingapp.api\\controllers\\marketcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F334C2C1-2854-48DE-AF8F-3ED2F36C81AB}|TradingApp.API\\TradingApp.API.csproj|d:\\final\\backend\\tradingapp.api\\tradingapp.api\\controllers\\followcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F334C2C1-2854-48DE-AF8F-3ED2F36C81AB}|TradingApp.API\\TradingApp.API.csproj|solutionrelative:tradingapp.api\\controllers\\followcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F334C2C1-2854-48DE-AF8F-3ED2F36C81AB}|TradingApp.API\\TradingApp.API.csproj|d:\\final\\backend\\tradingapp.api\\tradingapp.api\\controllers\\blockcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F334C2C1-2854-48DE-AF8F-3ED2F36C81AB}|TradingApp.API\\TradingApp.API.csproj|solutionrelative:tradingapp.api\\controllers\\blockcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F334C2C1-2854-48DE-AF8F-3ED2F36C81AB}|TradingApp.API\\TradingApp.API.csproj|d:\\final\\backend\\tradingapp.api\\tradingapp.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F334C2C1-2854-48DE-AF8F-3ED2F36C81AB}|TradingApp.API\\TradingApp.API.csproj|solutionrelative:tradingapp.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F334C2C1-2854-48DE-AF8F-3ED2F36C81AB}|TradingApp.API\\TradingApp.API.csproj|d:\\final\\backend\\tradingapp.api\\tradingapp.api\\backgroundservices\\worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F334C2C1-2854-48DE-AF8F-3ED2F36C81AB}|TradingApp.API\\TradingApp.API.csproj|solutionrelative:tradingapp.api\\backgroundservices\\worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F334C2C1-2854-48DE-AF8F-3ED2F36C81AB}|TradingApp.API\\TradingApp.API.csproj|d:\\final\\backend\\tradingapp.api\\tradingapp.api\\backgroundservices\\tradingworker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F334C2C1-2854-48DE-AF8F-3ED2F36C81AB}|TradingApp.API\\TradingApp.API.csproj|solutionrelative:tradingapp.api\\backgroundservices\\tradingworker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F334C2C1-2854-48DE-AF8F-3ED2F36C81AB}|TradingApp.API\\TradingApp.API.csproj|d:\\final\\backend\\tradingapp.api\\tradingapp.api\\properties\\publishprofiles\\trading - web deploy.pubxml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{F334C2C1-2854-48DE-AF8F-3ED2F36C81AB}|TradingApp.API\\TradingApp.API.csproj|solutionrelative:tradingapp.api\\properties\\publishprofiles\\trading - web deploy.pubxml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03C1A6D2-FC98-40F3-9E27-EF5BAEDD20A5}|TradingAppTest\\TradingAppTest.csproj|d:\\final\\backend\\tradingapp.api\\tradingapptest\\tradeservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03C1A6D2-FC98-40F3-9E27-EF5BAEDD20A5}|TradingAppTest\\TradingAppTest.csproj|solutionrelative:tradingapptest\\tradeservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03C1A6D2-FC98-40F3-9E27-EF5BAEDD20A5}|TradingAppTest\\TradingAppTest.csproj|d:\\final\\backend\\tradingapp.api\\tradingapptest\\followservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03C1A6D2-FC98-40F3-9E27-EF5BAEDD20A5}|TradingAppTest\\TradingAppTest.csproj|solutionrelative:tradingapptest\\followservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03C1A6D2-FC98-40F3-9E27-EF5BAEDD20A5}|TradingAppTest\\TradingAppTest.csproj|d:\\final\\backend\\tradingapp.api\\tradingapptest\\walletservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03C1A6D2-FC98-40F3-9E27-EF5BAEDD20A5}|TradingAppTest\\TradingAppTest.csproj|solutionrelative:tradingapptest\\walletservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03C1A6D2-FC98-40F3-9E27-EF5BAEDD20A5}|TradingAppTest\\TradingAppTest.csproj|d:\\final\\backend\\tradingapp.api\\tradingapptest\\controllertests\\watchlistcontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03C1A6D2-FC98-40F3-9E27-EF5BAEDD20A5}|TradingAppTest\\TradingAppTest.csproj|solutionrelative:tradingapptest\\controllertests\\watchlistcontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03C1A6D2-FC98-40F3-9E27-EF5BAEDD20A5}|TradingAppTest\\TradingAppTest.csproj|d:\\final\\backend\\tradingapp.api\\tradingapptest\\controllertests\\walletcontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03C1A6D2-FC98-40F3-9E27-EF5BAEDD20A5}|TradingAppTest\\TradingAppTest.csproj|solutionrelative:tradingapptest\\controllertests\\walletcontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03C1A6D2-FC98-40F3-9E27-EF5BAEDD20A5}|TradingAppTest\\TradingAppTest.csproj|d:\\final\\backend\\tradingapp.api\\tradingapptest\\controllertests\\tradecontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03C1A6D2-FC98-40F3-9E27-EF5BAEDD20A5}|TradingAppTest\\TradingAppTest.csproj|solutionrelative:tradingapptest\\controllertests\\tradecontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03C1A6D2-FC98-40F3-9E27-EF5BAEDD20A5}|TradingAppTest\\TradingAppTest.csproj|d:\\final\\backend\\tradingapp.api\\tradingapptest\\controllertests\\testdbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03C1A6D2-FC98-40F3-9E27-EF5BAEDD20A5}|TradingAppTest\\TradingAppTest.csproj|solutionrelative:tradingapptest\\controllertests\\testdbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03C1A6D2-FC98-40F3-9E27-EF5BAEDD20A5}|TradingAppTest\\TradingAppTest.csproj|d:\\final\\backend\\tradingapp.api\\tradingapptest\\controllertests\\followcontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03C1A6D2-FC98-40F3-9E27-EF5BAEDD20A5}|TradingAppTest\\TradingAppTest.csproj|solutionrelative:tradingapptest\\controllertests\\followcontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03C1A6D2-FC98-40F3-9E27-EF5BAEDD20A5}|TradingAppTest\\TradingAppTest.csproj|d:\\final\\backend\\tradingapp.api\\tradingapptest\\controllertests\\blockcontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03C1A6D2-FC98-40F3-9E27-EF5BAEDD20A5}|TradingAppTest\\TradingAppTest.csproj|solutionrelative:tradingapptest\\controllertests\\blockcontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F334C2C1-2854-48DE-AF8F-3ED2F36C81AB}|TradingApp.API\\TradingApp.API.csproj|d:\\final\\backend\\tradingapp.api\\tradingapp.api\\tradingapp.api.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{F334C2C1-2854-48DE-AF8F-3ED2F36C81AB}|TradingApp.API\\TradingApp.API.csproj|solutionrelative:tradingapp.api\\tradingapp.api.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TradingAppTest.csproj",
+              "DocumentMoniker": "D:\\final\\backend\\TradingApp.API\\TradingAppTest\\TradingAppTest.csproj",
+              "RelativeDocumentMoniker": "TradingAppTest\\TradingAppTest.csproj",
+              "ToolTip": "D:\\final\\backend\\TradingApp.API\\TradingAppTest\\TradingAppTest.csproj",
+              "RelativeToolTip": "TradingAppTest\\TradingAppTest.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-01T17:11:15.497Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\final\\backend\\TradingApp.API\\TradingApp.API\\Models\\User.cs",
+              "RelativeDocumentMoniker": "TradingApp.API\\Models\\User.cs",
+              "ToolTip": "D:\\final\\backend\\TradingApp.API\\TradingApp.API\\Models\\User.cs",
+              "RelativeToolTip": "TradingApp.API\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T13:30:12.704Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Wallet.cs",
+              "DocumentMoniker": "D:\\final\\backend\\TradingApp.API\\TradingApp.API\\Models\\Wallet.cs",
+              "RelativeDocumentMoniker": "TradingApp.API\\Models\\Wallet.cs",
+              "ToolTip": "D:\\final\\backend\\TradingApp.API\\TradingApp.API\\Models\\Wallet.cs",
+              "RelativeToolTip": "TradingApp.API\\Models\\Wallet.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T13:30:14.035Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BlockchainService.cs",
+              "DocumentMoniker": "D:\\final\\backend\\TradingApp.API\\TradingApp.API\\Services\\BlockchainService.cs",
+              "RelativeDocumentMoniker": "TradingApp.API\\Services\\BlockchainService.cs",
+              "ToolTip": "D:\\final\\backend\\TradingApp.API\\TradingApp.API\\Services\\BlockchainService.cs",
+              "RelativeToolTip": "TradingApp.API\\Services\\BlockchainService.cs",
+              "ViewState": "AgIAAJcAAAAAAAAAAAAYwGgAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T13:30:16.836Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\final\\backend\\TradingApp.API\\TradingApp.API\\Program.cs",
+              "RelativeDocumentMoniker": "TradingApp.API\\Program.cs",
+              "ToolTip": "D:\\final\\backend\\TradingApp.API\\TradingApp.API\\Program.cs",
+              "RelativeToolTip": "TradingApp.API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T18:55:30.183Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FollowService.cs",
+              "DocumentMoniker": "D:\\final\\backend\\TradingApp.API\\TradingApp.API\\Services\\FollowService.cs",
+              "RelativeDocumentMoniker": "TradingApp.API\\Services\\FollowService.cs",
+              "ToolTip": "D:\\final\\backend\\TradingApp.API\\TradingApp.API\\Services\\FollowService.cs",
+              "RelativeToolTip": "TradingApp.API\\Services\\FollowService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T13:30:29.638Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MarketService.cs",
+              "DocumentMoniker": "D:\\final\\backend\\TradingApp.API\\TradingApp.API\\Services\\MarketService.cs",
+              "RelativeDocumentMoniker": "TradingApp.API\\Services\\MarketService.cs",
+              "ToolTip": "D:\\final\\backend\\TradingApp.API\\TradingApp.API\\Services\\MarketService.cs",
+              "RelativeToolTip": "TradingApp.API\\Services\\MarketService.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAwwC8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T11:39:16.221Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TradeService.cs",
+              "DocumentMoniker": "D:\\final\\backend\\TradingApp.API\\TradingApp.API\\Services\\TradeService.cs",
+              "RelativeDocumentMoniker": "TradingApp.API\\Services\\TradeService.cs",
+              "ToolTip": "D:\\final\\backend\\TradingApp.API\\TradingApp.API\\Services\\TradeService.cs",
+              "RelativeToolTip": "TradingApp.API\\Services\\TradeService.cs",
+              "ViewState": "AgIAAJ4BAAAAAAAAAAAqwLEBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T13:30:33.62Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WalletService.cs",
+              "DocumentMoniker": "D:\\final\\backend\\TradingApp.API\\TradingApp.API\\Services\\WalletService.cs",
+              "RelativeDocumentMoniker": "TradingApp.API\\Services\\WalletService.cs",
+              "ToolTip": "D:\\final\\backend\\TradingApp.API\\TradingApp.API\\Services\\WalletService.cs",
+              "RelativeToolTip": "TradingApp.API\\Services\\WalletService.cs",
+              "ViewState": "AgIAABkBAAAAAAAAAAAAwBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T13:31:06.101Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\final\\backend\\TradingApp.API\\TradingApp.API\\appsettings.json",
+              "RelativeDocumentMoniker": "TradingApp.API\\appsettings.json",
+              "ToolTip": "D:\\final\\backend\\TradingApp.API\\TradingApp.API\\appsettings.json",
+              "RelativeToolTip": "TradingApp.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-24T18:54:36.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BlockchainServiceTest.cs",
+              "DocumentMoniker": "D:\\final\\backend\\TradingApp.API\\TradingAppTest\\BlockchainServiceTest.cs",
+              "RelativeDocumentMoniker": "TradingAppTest\\BlockchainServiceTest.cs",
+              "ToolTip": "D:\\final\\backend\\TradingApp.API\\TradingAppTest\\BlockchainServiceTest.cs",
+              "RelativeToolTip": "TradingAppTest\\BlockchainServiceTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T13:34:37.69Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Transaction.cs",
+              "DocumentMoniker": "D:\\final\\backend\\TradingApp.API\\TradingApp.API\\Models\\Transaction.cs",
+              "RelativeDocumentMoniker": "TradingApp.API\\Models\\Transaction.cs",
+              "ToolTip": "D:\\final\\backend\\TradingApp.API\\TradingApp.API\\Models\\Transaction.cs",
+              "RelativeToolTip": "TradingApp.API\\Models\\Transaction.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAwwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T13:30:10.539Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Trade.cs",
+              "DocumentMoniker": "D:\\final\\backend\\TradingApp.API\\TradingApp.API\\Models\\Trade.cs",
+              "RelativeDocumentMoniker": "TradingApp.API\\Models\\Trade.cs",
+              "ToolTip": "D:\\final\\backend\\TradingApp.API\\TradingApp.API\\Models\\Trade.cs",
+              "RelativeToolTip": "TradingApp.API\\Models\\Trade.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T13:30:09.179Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TradingApp.API.http",
+              "DocumentMoniker": "D:\\final\\backend\\TradingApp.API\\TradingApp.API\\TradingApp.API.http",
+              "RelativeDocumentMoniker": "TradingApp.API\\TradingApp.API.http",
+              "ToolTip": "D:\\final\\backend\\TradingApp.API\\TradingApp.API\\TradingApp.API.http",
+              "RelativeToolTip": "TradingApp.API\\TradingApp.API.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-12-01T11:52:53.666Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Miner.cs",
+              "DocumentMoniker": "D:\\final\\backend\\TradingApp.API\\TradingApp.API\\Models\\Miner.cs",
+              "RelativeDocumentMoniker": "TradingApp.API\\Models\\Miner.cs",
+              "ToolTip": "D:\\final\\backend\\TradingApp.API\\TradingApp.API\\Models\\Miner.cs",
+              "RelativeToolTip": "TradingApp.API\\Models\\Miner.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T13:30:07.612Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Follow.cs",
+              "DocumentMoniker": "D:\\final\\backend\\TradingApp.API\\TradingApp.API\\Models\\Follow.cs",
+              "RelativeDocumentMoniker": "TradingApp.API\\Models\\Follow.cs",
+              "ToolTip": "D:\\final\\backend\\TradingApp.API\\TradingApp.API\\Models\\Follow.cs",
+              "RelativeToolTip": "TradingApp.API\\Models\\Follow.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T13:30:05.884Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "DbInitializer.cs",
+              "DocumentMoniker": "D:\\final\\backend\\TradingApp.API\\TradingApp.API\\Models\\DbInitializer.cs",
+              "RelativeDocumentMoniker": "TradingApp.API\\Models\\DbInitializer.cs",
+              "ToolTip": "D:\\final\\backend\\TradingApp.API\\TradingApp.API\\Models\\DbInitializer.cs",
+              "RelativeToolTip": "TradingApp.API\\Models\\DbInitializer.cs",
+              "ViewState": "AgIAAKEAAAAAAAAAAAAAwG0AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T13:29:51.814Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Block.cs",
+              "DocumentMoniker": "D:\\final\\backend\\TradingApp.API\\TradingApp.API\\Models\\Block.cs",
+              "RelativeDocumentMoniker": "TradingApp.API\\Models\\Block.cs",
+              "ToolTip": "D:\\final\\backend\\TradingApp.API\\TradingApp.API\\Models\\Block.cs",
+              "RelativeToolTip": "TradingApp.API\\Models\\Block.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T13:29:51.02Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Balance.cs",
+              "DocumentMoniker": "D:\\final\\backend\\TradingApp.API\\TradingApp.API\\Models\\Balance.cs",
+              "RelativeDocumentMoniker": "TradingApp.API\\Models\\Balance.cs",
+              "ToolTip": "D:\\final\\backend\\TradingApp.API\\TradingApp.API\\Models\\Balance.cs",
+              "RelativeToolTip": "TradingApp.API\\Models\\Balance.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T13:29:49.755Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\final\\backend\\TradingApp.API\\TradingApp.API\\Models\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "TradingApp.API\\Models\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\final\\backend\\TradingApp.API\\TradingApp.API\\Models\\ApplicationDbContext.cs",
+              "RelativeToolTip": "TradingApp.API\\Models\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T13:29:48.267Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "WatchlistDto.cs",
+              "DocumentMoniker": "D:\\final\\backend\\TradingApp.API\\TradingApp.API\\Models\\DTO\\WatchlistDto.cs",
+              "RelativeDocumentMoniker": "TradingApp.API\\Models\\DTO\\WatchlistDto.cs",
+              "ToolTip": "D:\\final\\backend\\TradingApp.API\\TradingApp.API\\Models\\DTO\\WatchlistDto.cs",
+              "RelativeToolTip": "TradingApp.API\\Models\\DTO\\WatchlistDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T13:29:45.568Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "TransferDto.cs",
+              "DocumentMoniker": "D:\\final\\backend\\TradingApp.API\\TradingApp.API\\Models\\DTO\\TransferDto.cs",
+              "RelativeDocumentMoniker": "TradingApp.API\\Models\\DTO\\TransferDto.cs",
+              "ToolTip": "D:\\final\\backend\\TradingApp.API\\TradingApp.API\\Models\\DTO\\TransferDto.cs",
+              "RelativeToolTip": "TradingApp.API\\Models\\DTO\\TransferDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T13:29:44.755Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "TraderDto.cs",
+              "DocumentMoniker": "D:\\final\\backend\\TradingApp.API\\TradingApp.API\\Models\\DTO\\TraderDto.cs",
+              "RelativeDocumentMoniker": "TradingApp.API\\Models\\DTO\\TraderDto.cs",
+              "ToolTip": "D:\\final\\backend\\TradingApp.API\\TradingApp.API\\Models\\DTO\\TraderDto.cs",
+              "RelativeToolTip": "TradingApp.API\\Models\\DTO\\TraderDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T13:29:43.763Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "TradeDto.cs",
+              "DocumentMoniker": "D:\\final\\backend\\TradingApp.API\\TradingApp.API\\Models\\DTO\\TradeDto.cs",
+              "RelativeDocumentMoniker": "TradingApp.API\\Models\\DTO\\TradeDto.cs",
+              "ToolTip": "D:\\final\\backend\\TradingApp.API\\TradingApp.API\\Models\\DTO\\TradeDto.cs",
+              "RelativeToolTip": "TradingApp.API\\Models\\DTO\\TradeDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T13:29:43.06Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ResetPasswordDto.cs",
+              "DocumentMoniker": "D:\\final\\backend\\TradingApp.API\\TradingApp.API\\Models\\DTO\\ResetPasswordDto.cs",
+              "RelativeDocumentMoniker": "TradingApp.API\\Models\\DTO\\ResetPasswordDto.cs",
+              "ToolTip": "D:\\final\\backend\\TradingApp.API\\TradingApp.API\\Models\\DTO\\ResetPasswordDto.cs",
+              "RelativeToolTip": "TradingApp.API\\Models\\DTO\\ResetPasswordDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T13:29:42.078Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "RegisterDto.cs",
+              "DocumentMoniker": "D:\\final\\backend\\TradingApp.API\\TradingApp.API\\Models\\DTO\\RegisterDto.cs",
+              "RelativeDocumentMoniker": "TradingApp.API\\Models\\DTO\\RegisterDto.cs",
+              "ToolTip": "D:\\final\\backend\\TradingApp.API\\TradingApp.API\\Models\\DTO\\RegisterDto.cs",
+              "RelativeToolTip": "TradingApp.API\\Models\\DTO\\RegisterDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T18:10:01.881Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ProfileDto.cs",
+              "DocumentMoniker": "D:\\final\\backend\\TradingApp.API\\TradingApp.API\\Models\\DTO\\ProfileDto.cs",
+              "RelativeDocumentMoniker": "TradingApp.API\\Models\\DTO\\ProfileDto.cs",
+              "ToolTip": "D:\\final\\backend\\TradingApp.API\\TradingApp.API\\Models\\DTO\\ProfileDto.cs",
+              "RelativeToolTip": "TradingApp.API\\Models\\DTO\\ProfileDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T13:29:40.268Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "OrderDto.cs",
+              "DocumentMoniker": "D:\\final\\backend\\TradingApp.API\\TradingApp.API\\Models\\DTO\\OrderDto.cs",
+              "RelativeDocumentMoniker": "TradingApp.API\\Models\\DTO\\OrderDto.cs",
+              "ToolTip": "D:\\final\\backend\\TradingApp.API\\TradingApp.API\\Models\\DTO\\OrderDto.cs",
+              "RelativeToolTip": "TradingApp.API\\Models\\DTO\\OrderDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T13:29:39.16Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "LoginDto.cs",
+              "DocumentMoniker": "D:\\final\\backend\\TradingApp.API\\TradingApp.API\\Models\\DTO\\LoginDto.cs",
+              "RelativeDocumentMoniker": "TradingApp.API\\Models\\DTO\\LoginDto.cs",
+              "ToolTip": "D:\\final\\backend\\TradingApp.API\\TradingApp.API\\Models\\DTO\\LoginDto.cs",
+              "RelativeToolTip": "TradingApp.API\\Models\\DTO\\LoginDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T17:48:37.804Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "FollowRequestDto.cs",
+              "DocumentMoniker": "D:\\final\\backend\\TradingApp.API\\TradingApp.API\\Models\\DTO\\FollowRequestDto.cs",
+              "RelativeDocumentMoniker": "TradingApp.API\\Models\\DTO\\FollowRequestDto.cs",
+              "ToolTip": "D:\\final\\backend\\TradingApp.API\\TradingApp.API\\Models\\DTO\\FollowRequestDto.cs",
+              "RelativeToolTip": "TradingApp.API\\Models\\DTO\\FollowRequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T13:29:37.704Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "DepositDto.cs",
+              "DocumentMoniker": "D:\\final\\backend\\TradingApp.API\\TradingApp.API\\Models\\DTO\\DepositDto.cs",
+              "RelativeDocumentMoniker": "TradingApp.API\\Models\\DTO\\DepositDto.cs",
+              "ToolTip": "D:\\final\\backend\\TradingApp.API\\TradingApp.API\\Models\\DTO\\DepositDto.cs",
+              "RelativeToolTip": "TradingApp.API\\Models\\DTO\\DepositDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T13:29:36.748Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "BlockMinerPort.cs",
+              "DocumentMoniker": "D:\\final\\backend\\TradingApp.API\\TradingApp.API\\Models\\DTO\\BlockMinerPort.cs",
+              "RelativeDocumentMoniker": "TradingApp.API\\Models\\DTO\\BlockMinerPort.cs",
+              "ToolTip": "D:\\final\\backend\\TradingApp.API\\TradingApp.API\\Models\\DTO\\BlockMinerPort.cs",
+              "RelativeToolTip": "TradingApp.API\\Models\\DTO\\BlockMinerPort.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T13:29:35.316Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "WatchlistController.cs",
+              "DocumentMoniker": "D:\\final\\backend\\TradingApp.API\\TradingApp.API\\Controllers\\WatchlistController.cs",
+              "RelativeDocumentMoniker": "TradingApp.API\\Controllers\\WatchlistController.cs",
+              "ToolTip": "D:\\final\\backend\\TradingApp.API\\TradingApp.API\\Controllers\\WatchlistController.cs",
+              "RelativeToolTip": "TradingApp.API\\Controllers\\WatchlistController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADwAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T18:12:57.318Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "WalletController.cs",
+              "DocumentMoniker": "D:\\final\\backend\\TradingApp.API\\TradingApp.API\\Controllers\\WalletController.cs",
+              "RelativeDocumentMoniker": "TradingApp.API\\Controllers\\WalletController.cs",
+              "ToolTip": "D:\\final\\backend\\TradingApp.API\\TradingApp.API\\Controllers\\WalletController.cs",
+              "RelativeToolTip": "TradingApp.API\\Controllers\\WalletController.cs",
+              "ViewState": "AgIAAMEAAAAAAAAAAAAYwNQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T18:13:33.336Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "TradeController.cs",
+              "DocumentMoniker": "D:\\final\\backend\\TradingApp.API\\TradingApp.API\\Controllers\\TradeController.cs",
+              "RelativeDocumentMoniker": "TradingApp.API\\Controllers\\TradeController.cs",
+              "ToolTip": "D:\\final\\backend\\TradingApp.API\\TradingApp.API\\Controllers\\TradeController.cs",
+              "RelativeToolTip": "TradingApp.API\\Controllers\\TradeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAABiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T18:13:28.364Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "MarketController.cs",
+              "DocumentMoniker": "D:\\final\\backend\\TradingApp.API\\TradingApp.API\\Controllers\\MarketController.cs",
+              "RelativeDocumentMoniker": "TradingApp.API\\Controllers\\MarketController.cs",
+              "ToolTip": "D:\\final\\backend\\TradingApp.API\\TradingApp.API\\Controllers\\MarketController.cs",
+              "RelativeToolTip": "TradingApp.API\\Controllers\\MarketController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T11:37:27.923Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "FollowController.cs",
+              "DocumentMoniker": "D:\\final\\backend\\TradingApp.API\\TradingApp.API\\Controllers\\FollowController.cs",
+              "RelativeDocumentMoniker": "TradingApp.API\\Controllers\\FollowController.cs",
+              "ToolTip": "D:\\final\\backend\\TradingApp.API\\TradingApp.API\\Controllers\\FollowController.cs",
+              "RelativeToolTip": "TradingApp.API\\Controllers\\FollowController.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAIwA8AAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T18:13:20.044Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "BlockController.cs",
+              "DocumentMoniker": "D:\\final\\backend\\TradingApp.API\\TradingApp.API\\Controllers\\BlockController.cs",
+              "RelativeDocumentMoniker": "TradingApp.API\\Controllers\\BlockController.cs",
+              "ToolTip": "D:\\final\\backend\\TradingApp.API\\TradingApp.API\\Controllers\\BlockController.cs",
+              "RelativeToolTip": "TradingApp.API\\Controllers\\BlockController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T19:10:43.269Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\final\\backend\\TradingApp.API\\TradingApp.API\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "TradingApp.API\\Controllers\\AuthController.cs",
+              "ToolTip": "D:\\final\\backend\\TradingApp.API\\TradingApp.API\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "TradingApp.API\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAALAAAAAAAAAAAAAuwA4AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T17:45:55.288Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Worker.cs",
+              "DocumentMoniker": "D:\\final\\backend\\TradingApp.API\\TradingApp.API\\BackgroundServices\\Worker.cs",
+              "RelativeDocumentMoniker": "TradingApp.API\\BackgroundServices\\Worker.cs",
+              "ToolTip": "D:\\final\\backend\\TradingApp.API\\TradingApp.API\\BackgroundServices\\Worker.cs",
+              "RelativeToolTip": "TradingApp.API\\BackgroundServices\\Worker.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAANoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T13:28:20.908Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "TradingWorker.cs",
+              "DocumentMoniker": "D:\\final\\backend\\TradingApp.API\\TradingApp.API\\BackgroundServices\\TradingWorker.cs",
+              "RelativeDocumentMoniker": "TradingApp.API\\BackgroundServices\\TradingWorker.cs",
+              "ToolTip": "D:\\final\\backend\\TradingApp.API\\TradingApp.API\\BackgroundServices\\TradingWorker.cs",
+              "RelativeToolTip": "TradingApp.API\\BackgroundServices\\TradingWorker.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T13:28:03.808Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "trading - Web Deploy.pubxml",
+              "DocumentMoniker": "D:\\final\\backend\\TradingApp.API\\TradingApp.API\\Properties\\PublishProfiles\\trading - Web Deploy.pubxml",
+              "RelativeDocumentMoniker": "TradingApp.API\\Properties\\PublishProfiles\\trading - Web Deploy.pubxml",
+              "ToolTip": "D:\\final\\backend\\TradingApp.API\\TradingApp.API\\Properties\\PublishProfiles\\trading - Web Deploy.pubxml",
+              "RelativeToolTip": "TradingApp.API\\Properties\\PublishProfiles\\trading - Web Deploy.pubxml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2024-12-01T17:00:32.401Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "FollowServiceTest.cs",
+              "DocumentMoniker": "D:\\final\\backend\\TradingApp.API\\TradingAppTest\\FollowServiceTest.cs",
+              "RelativeDocumentMoniker": "TradingAppTest\\FollowServiceTest.cs",
+              "ToolTip": "D:\\final\\backend\\TradingApp.API\\TradingAppTest\\FollowServiceTest.cs",
+              "RelativeToolTip": "TradingAppTest\\FollowServiceTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T13:34:51.914Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "TradeServiceTest.cs",
+              "DocumentMoniker": "D:\\final\\backend\\TradingApp.API\\TradingAppTest\\TradeServiceTest.cs",
+              "RelativeDocumentMoniker": "TradingAppTest\\TradeServiceTest.cs",
+              "ToolTip": "D:\\final\\backend\\TradingApp.API\\TradingAppTest\\TradeServiceTest.cs",
+              "RelativeToolTip": "TradingAppTest\\TradeServiceTest.cs",
+              "ViewState": "AgIAAHIAAAAAAAAAAAAowPsBAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T13:35:20.281Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "WalletServiceTest.cs",
+              "DocumentMoniker": "D:\\final\\backend\\TradingApp.API\\TradingAppTest\\WalletServiceTest.cs",
+              "RelativeDocumentMoniker": "TradingAppTest\\WalletServiceTest.cs",
+              "ToolTip": "D:\\final\\backend\\TradingApp.API\\TradingAppTest\\WalletServiceTest.cs",
+              "RelativeToolTip": "TradingAppTest\\WalletServiceTest.cs",
+              "ViewState": "AgIAAOEBAAAAAAAAAAAIwPYBAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T13:36:12.227Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "WatchlistControllerTest.cs",
+              "DocumentMoniker": "D:\\final\\backend\\TradingApp.API\\TradingAppTest\\ControllerTests\\WatchlistControllerTest.cs",
+              "RelativeDocumentMoniker": "TradingAppTest\\ControllerTests\\WatchlistControllerTest.cs",
+              "ToolTip": "D:\\final\\backend\\TradingApp.API\\TradingAppTest\\ControllerTests\\WatchlistControllerTest.cs",
+              "RelativeToolTip": "TradingAppTest\\ControllerTests\\WatchlistControllerTest.cs",
+              "ViewState": "AgIAAFkAAAAAAAAAAAAIwGoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T13:34:19.596Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "WalletControllerTest.cs",
+              "DocumentMoniker": "D:\\final\\backend\\TradingApp.API\\TradingAppTest\\ControllerTests\\WalletControllerTest.cs",
+              "RelativeDocumentMoniker": "TradingAppTest\\ControllerTests\\WalletControllerTest.cs",
+              "ToolTip": "D:\\final\\backend\\TradingApp.API\\TradingAppTest\\ControllerTests\\WalletControllerTest.cs",
+              "RelativeToolTip": "TradingAppTest\\ControllerTests\\WalletControllerTest.cs",
+              "ViewState": "AgIAAJsAAAAAAAAAAAAuwKoAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T13:33:54.084Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "TradeControllerTest.cs",
+              "DocumentMoniker": "D:\\final\\backend\\TradingApp.API\\TradingAppTest\\ControllerTests\\TradeControllerTest.cs",
+              "RelativeDocumentMoniker": "TradingAppTest\\ControllerTests\\TradeControllerTest.cs",
+              "ToolTip": "D:\\final\\backend\\TradingApp.API\\TradingAppTest\\ControllerTests\\TradeControllerTest.cs",
+              "RelativeToolTip": "TradingAppTest\\ControllerTests\\TradeControllerTest.cs",
+              "ViewState": "AgIAAKQAAAAAAAAAAAAAwLMAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T13:33:01.054Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "TestDbInitializer.cs",
+              "DocumentMoniker": "D:\\final\\backend\\TradingApp.API\\TradingAppTest\\ControllerTests\\TestDbInitializer.cs",
+              "RelativeDocumentMoniker": "TradingAppTest\\ControllerTests\\TestDbInitializer.cs",
+              "ToolTip": "D:\\final\\backend\\TradingApp.API\\TradingAppTest\\ControllerTests\\TestDbInitializer.cs",
+              "RelativeToolTip": "TradingAppTest\\ControllerTests\\TestDbInitializer.cs",
+              "ViewState": "AgIAAHAAAAAAAAAAAAAgwH0AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T13:32:41.96Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "FollowControllerTest.cs",
+              "DocumentMoniker": "D:\\final\\backend\\TradingApp.API\\TradingAppTest\\ControllerTests\\FollowControllerTest.cs",
+              "RelativeDocumentMoniker": "TradingAppTest\\ControllerTests\\FollowControllerTest.cs",
+              "ToolTip": "D:\\final\\backend\\TradingApp.API\\TradingAppTest\\ControllerTests\\FollowControllerTest.cs",
+              "RelativeToolTip": "TradingAppTest\\ControllerTests\\FollowControllerTest.cs",
+              "ViewState": "AgIAAGQAAAAAAAAAAAAcwHkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T13:32:08.492Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "BlockControllerTest.cs",
+              "DocumentMoniker": "D:\\final\\backend\\TradingApp.API\\TradingAppTest\\ControllerTests\\BlockControllerTest.cs",
+              "RelativeDocumentMoniker": "TradingAppTest\\ControllerTests\\BlockControllerTest.cs",
+              "ToolTip": "D:\\final\\backend\\TradingApp.API\\TradingAppTest\\ControllerTests\\BlockControllerTest.cs",
+              "RelativeToolTip": "TradingAppTest\\ControllerTests\\BlockControllerTest.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAIwFEAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T13:31:51.484Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "TradingApp.API",
+              "DocumentMoniker": "D:\\final\\backend\\TradingApp.API\\TradingApp.API\\TradingApp.API.csproj",
+              "RelativeDocumentMoniker": "TradingApp.API\\TradingApp.API.csproj",
+              "ToolTip": "D:\\final\\backend\\TradingApp.API\\TradingApp.API\\TradingApp.API.csproj",
+              "RelativeToolTip": "TradingApp.API\\TradingApp.API.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-24T18:17:25.762Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
